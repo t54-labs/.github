@@ -18,52 +18,6 @@ Together, these components form a complete trust layer across any blockchain, ag
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6e479885-4b98-4703-8b18-9af0de91a695" />
 
----
-
-## Product Overview
-
-**[KYA: Know Your Agent](https://docs.t54.ai/v1.4/docs/kya#/)**
-- Agent-native identity verification.  
-- Extends KYC/KYB to verify *who acts and why* — ensuring trusted agent identity and intent.
-
-**[Trustline](https://docs.t54.ai/v1.4/docs/trustline#/)**
-- Real-time risk and fraud intelligence.  
-- Continuously monitors agent behavior and transaction context to detect anomalies and prevent abuse.
-
-**[tLedger](https://docs.t54.ai/v1.4/docs/tledger#/)**
-- Unified trust and settlement platform.  
-- Brings verified identity, risk, and compliance together for secure multi-chain financial operations.
-
----
-
-## Use Cases
-
-Explore how the **t54 Trust Stack** powers real-world agentic finance applications.
-
-**[Claire Agent](https://docs.t54.ai/v1.4/docs/claire#/)**
-- The financial gateway agent connecting AI models to real-world payments and account management.
-
-**[Global Payroll](https://docs.t54.ai/v1.4/docs/global-payroll#/)**
-- Autonomous payroll orchestration for distributed teams using stablecoin and multi-chain settlement.
-
-**[Shopping Assistant](https://docs.t54.ai/v1.4/docs/shopping-assistant#/)**
-- Verifies merchant identity, manages delegated payments, and prevents fraud in autonomous e-commerce.
-
-**[Agentic Monopoly](https://docs.t54.ai/v1.4/docs/agentic-monoply#/)**
-- Simulation of agent-to-agent coordination, trust scoring, and autonomous transaction dynamics.
-
----
-
-## What You Can Build with t54
-
-| **Capability**                                      | **Enables You To…**                                                                          |
-| --------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **Create Agent Financial Profiles**                 | Assign each AI agent a verified financial identity with compliance and credit controls.       |
-| **Delegate and Verify Agent Actions**               | Bind each action to a verified identity and intent proof using KYA.                           |
-| **Monitor Financial Transaction Risk in Real Time** | Detect anomalies via Trustline; pause, challenge, or block agent-initiated transactions.      |
-| **Prevent Fraud and Model Abuse**                   | Use continuous behavioral scoring to identify hallucinated payments or manipulation attempts. |
-| **Execute Compliant Payments**                      | Transfer funds securely through verified agents using tLedger APIs.                           |
-| **Analyze and Audit Activity**                      | Access risk logs, balances, and transaction history via API or Portal for compliance.         |
 
 ---
 
@@ -71,7 +25,7 @@ Explore how the **t54 Trust Stack** powers real-world agentic finance applicatio
 
 Visit our developer documentation at [docs.t54.ai](https://docs.t54.ai)
 
-Get started with the **t54 Trust Stack**:
+Get [started]([url](https://docs.t54.ai/update/docs/quick-start#/)) with the **t54 Trust Stack**:
 - [KYA →](https://docs.t54.ai/v1.4/docs/kya#/)
 - [Trustline →](https://docs.t54.ai/v1.4/docs/trustline#/)
 - [tLedger →](https://docs.t54.ai/v1.4/docs/tledger#/)
