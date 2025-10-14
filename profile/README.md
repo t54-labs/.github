@@ -6,13 +6,6 @@ We build the **trust layer for the agentic era**, enabling AI agents, enterprise
 
 ---
 
-## Our Vision
-
-AI agents are becoming financial actors — initiating payments, holding balances, and making autonomous decisions.  
-t54 exists to ensure those actions are **trusted, compliant, and verifiable**.
-
----
-
 ## t54 Trust Stack
 
 The **t54 Trust Stack** delivers three core layers:
