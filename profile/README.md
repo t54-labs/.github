@@ -1,6 +1,6 @@
-# T54 Labs
+# t54 Labs
 
-T54 builds agentic risk and underwriting infrastructure for AI-driven finance.
+t54 builds agentic risk and underwriting infrastructure for AI-driven finance.
 
 Our core product is **Trustline**: a real-time underwriting engine for agent-mediated transactions. Trustline evaluates evidence, policy, external signals, behavior, and outcome history before financial actions proceed.
 
@@ -16,7 +16,7 @@ Our core product is **Trustline**: a real-time underwriting engine for agent-med
 
 ## Protocols And Rails
 
-T54 products are designed around agent-payment protocols and real settlement rails:
+t54 products are designed around agent-payment protocols and real settlement rails:
 
 - **Protocols:** x402, Google AP2, Mastercard Verifiable Intent
 - **Rails:** XRPL, RLUSD, Base USDC, Solana USDC
