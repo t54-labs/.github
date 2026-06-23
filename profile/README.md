@@ -7,7 +7,7 @@ Our core product is **Trustline**: a real-time underwriting engine for agent-med
 ## Technical Stack
 
 | Layer | What we build |
-| --- | --- |l
+| --- | --- |
 | Risk engine | Trustline transaction assessment, policy evaluation, evidence records, Agentic Challenge, audit trails, and webhooks. |
 | Payment gateway | X402 Secure for x402, AP2, and Verifiable Intent payment flows. |
 | Agent credit | Claw Credit for controlled agent access to x402 services, credit limits, repayment state, and partner-service context. |
